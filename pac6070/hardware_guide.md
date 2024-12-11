@@ -176,7 +176,7 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 	DIx: Isolated digital input channels. COM: Common ground.
 
 12. Analog Input Connector
-Each of the 5 channels isolated analog input can be configured as various input ranges and the common features are show as follows:
+Each of the 5 channels isolated analog input can be configured as various input ranges and the common features are shown as follows:
 	•	Effective Resolution: 24-bit
 	•	Channels: differential input channels Input Mode (Voltage): 3 channels (diﬀerential input )
 	•	Input Range (Voltage): +/- 10VDC
@@ -212,10 +212,12 @@ There is an internal micro-SD card socket for data storage, accessible by follow
 
 	Jumper Setting and Jumper location (red arrow)
 
-	SD Card 	●	●	○
-			3	2	1
+	 SD Card		●	●	○
 
-	eMMC (default)	○	●	●
-			3	2	1
+				3	2	1
+
+	 eMMC (default)		○	●	●
+
+				3	2	1
 
 
