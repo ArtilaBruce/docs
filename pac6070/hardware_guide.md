@@ -90,9 +90,10 @@ PAC-6070 is powered by NXP i.MX6ULL Cortex-A7 Processor with 1GB SDRAM and 16GB 
 
 ## 	Layout: Diagram and M/B photo
 
-•	Dimensions (WxLxH): 121.8 x 204 x 50mm (4.8 x 8 x 1.96in)
-•	Net Weight: 360g (0.791b)
-•	Operating Temperature: 0~70°C (32~158°F)
+### 
+- Dimensions (WxLxH): 121.8 x 204 x 50mm (4.8 x 8 x 1.96in)
+- Net Weight: 360g (0.791b)
+- Operating Temperature: 0 ~ 70°C (32 ~ 158°F)	
 
 
 
