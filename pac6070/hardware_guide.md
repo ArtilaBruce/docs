@@ -219,5 +219,3 @@ There is an internal micro-SD card socket for data storage, accessible by follow
 	 eMMC (default)		○	●	●
 
 				3	2	1
-
-
