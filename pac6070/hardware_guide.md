@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 The PAC-6070 is a cost-effective Linux computing platform powered by Cortex-A7 MPU. It offers a versatile range of on-board IOs, including voltage/current measurement, opto-isolated digital inputs, and high-power relay outputs.  With its comprehensive IO capabilities, the PAC-6070 enables efficient monitoring and control, making it the perfect choice for advanced Industrial IoT applications.  
 PAC-6070 is powered by NXP i.MX6ULL Cortex-A7 Processor with 1GB SDRAM and 16GB MMC. PAC-6070 features 5 A/D channels：3 channels differential input mode (Voltage) and 2 channels single-end input mode (Current)，8 channels digital inputs, and 8 x relay outputs. In addition, PAC-6070 integrates two 10/100Mbps Ethernet, one isolated RS-485 ports, one USB host, and one MicroSD socket, one miniPCIe slot. The DIN-Rail also makes PAC-6070’s onsite installation flexible.
 
