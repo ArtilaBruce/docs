@@ -157,11 +157,15 @@ The PAC-6070 provides an on-board **120 Ohm termination resistor** for each RS-4
 ### 8. Serial Console Port ：Debug Port（ RS-232 with RxD, TxD ）
 There is a 4-pin wafer box header (J4) inside the PAC-6070 features as serial console port that used for locally accessing PAC-6070 system via console port.
 
-	Pin	 Debug Port
-	1	  RXD
-	2	  TXD
-	3	  VPERI_3.3V
-	4	  GND
+#### **Pin Debug Port**
+
+| Pin | Debug Port  |
+|-----|-------------|
+| 1   | RXD         |
+| 2   | TXD         |
+| 3   | VPERI_3.3V  |
+| 4   | GND         |
+
 
 ![alt text](<10 Console port 1.jpg>)	
 
@@ -177,7 +181,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 
 ![alt text](<12 Relay Output Layout.jpg>)
 
-	# Pin Assignment of Digital Output :
+#### Pin Assignment of Digital Output :
 
 | Pin   | Pin1  | Pin2  | Pin3  | Pin4  | Pin5  | Pin6  | Pin7  | Pin8  |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|
