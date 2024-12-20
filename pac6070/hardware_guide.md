@@ -190,22 +190,24 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 | Signal | COM5  | DO5   | COM6  | DO6   | COM7  | DO7   | COM8  | DO8   |
 
 
-- Reference Circuit as follows:
+#### Reference Circuit as follows:
 
 ![alt text](<13 Relay Output Circuit 123-1.jpg>)
 
 ### 11. Digital Input Connector
 The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	Four of the channels form a group and share the same common ground.	The specifications of the isolated input channels are:
-	Logical High: 5~24Vdc Logical Low: 0~1.5Vdc
-	Input resistance: 1.8KOhms @0.5W Response time: 20µs
-	Isolation: 5000Vrms
+
+- Logical High: 5~24Vdc 
+- Logical Low: 0~1.5Vdc
+- Input resistance: 1.8KOhms @0.5W 
+- Response time: 20µs
+- Isolation: 5000Vrms
 
 ![alt text](<13 Digital Input Connector.jpg>)
-	DIx: Isolated digital input channels，COMx: common ground of four DIx
+	
 
-  #### Pin Assignment of Digital Input:
+#### Pin Assignment of Digital Input:
 
-#### Pins and Signals
 
 | **Pin**   | **Pin1** | **Pin2** | **Pin3** | **Pin4** | **Pin5**  |
 |-----------|----------|----------|----------|----------|-----------|
@@ -218,19 +220,18 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 
 ![alt text](<14 DI simple.jpg>)
 	
-	DIx: Isolated digital input channels. COM: Common ground.
+- **DIx: Isolated digital input channels. COM: Common ground.**
 
 ### 12. Analog Input Connector
 
 Each of the 5 channels of isolated analog input can be configured for various input ranges. The common features are as follows:
 
 - **Effective Resolution:** 24-bit  
-- **Channels:** Differential input channels  
-  - **Input Mode (Voltage):** 3 channels (differential input)  
-  - **Input Range (Voltage):** ±10VDC  
-  - **(Optional):** 2 x Single-end channels (requires driver support)  
-- **Input Mode (Current):** 2 channels (single-end)  
-  - **Input Current:** 0~20mA  
+- **Channels:** Differential input channels Input Mode (Voltage): 3 channels (differential input)
+- **Input Range (Voltage):** ±10VDC  
+- **(Optional):** 2 x Single-end channels, call for driver support  
+- **Input Mode (Current):** 2 channels (single-end) Input Current: 0~20mA 
+  
 
 ![alt text](<15 AI connector and Jumper settings.jpg>)
 
