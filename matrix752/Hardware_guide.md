@@ -225,6 +225,7 @@ RS-485 is designed without isolation that automatically direction controlled via
 | **Serial Port 1** RS-232 (1)  |TX1 | RX1 | --        | --        | GND       |
 | **Serial Port 2** RS-232 (2)| --        | --        | TX2 | RX2 | GND      |
 
+![alt text](<08 Serial Port.jpg>)
 
 ### Enable/Disable RS-485 Termination Resistor (JP4):
 The Matrix-752 provides on-board 120Ohm termination resistor for each RS-485 port. To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short as below:
@@ -297,6 +298,10 @@ Two digital input channels with 5000Vrms photocoupler isolation.
 - **Isolation**: 5000Vrms  
 
 ![alt text](<15 DI Simple figure.jpg>)
+
+- **DIx:** Isolated digital input channels.
+
+- **COM:** Common ground
 ---
 
 ## 3.9 Digital Output

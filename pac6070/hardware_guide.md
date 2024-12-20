@@ -256,6 +256,7 @@ For detailed specifications and compatibility information, please refer to the f
 - [RYWDB00｜REYAX TECHNOLOGY](https://www.reyax.com)  
 - [SIM7600X Module｜SIMCom Wireless Solutions](https://www.simcom.com)
 
+
 ---
 
 ### 14. Nano-SIM Card Socket
