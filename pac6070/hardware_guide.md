@@ -171,6 +171,7 @@ There is a 4-pin wafer box header (J4) inside the PAC-6070 features as serial co
 
 ### 9. Power Input Connector (CN1)
 PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
+
 ![alt text](<11 9V48VDC.jpg>)
 
 ### 10. Relay Output
