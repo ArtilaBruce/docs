@@ -177,33 +177,22 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 
 ![alt text](<12 Relay Output Layout.jpg>)
 
-	Pin assignment of Digital Output:
-	
-	### Pin Assignment of Digital Output
+	# Pin Assignment of Digital Output :
 
-- **Pins 1–8**
-  - Pin 1: COM1  
-  - Pin 2: DO1  
-  - Pin 3: COM2  
-  - Pin 4: DO2  
-  - Pin 5: COM3  
-  - Pin 6: DO3  
-  - Pin 7: COM4  
-  - Pin 8: DO4  
-
-- **Pins 9–16**
-  - Pin 9: COM5  
-  - Pin 10: DO5  
-  - Pin 11: COM6  
-  - Pin 12: DO6  
-  - Pin 13: COM7  
-  - Pin 14: DO7  
-  - Pin 15: COM8  
-  - Pin 16: DO8  
+| Pin   | Pin1  | Pin2  | Pin3  | Pin4  | Pin5  | Pin6  | Pin7  | Pin8  |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Signal| COM1  | DO1   | COM2  | DO2   | COM3  | DO3   | COM4  | DO4   |
 
 
-	Reference Circuit as follows:
-![alt text](<13 Relay Output Circuit 123.jpg>)
+
+| Pin    | Pin9  | Pin10 | Pin11 | Pin12 | Pin13 | Pin14 | Pin15 | Pin16 |
+|--------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Signal | COM5  | DO5   | COM6  | DO6   | COM7  | DO7   | COM8  | DO8   |
+
+
+- Reference Circuit as follows:
+
+![alt text](<13 Relay Output Circuit 123-1.jpg>)
 
 ### 11. Digital Input Connector
 The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	Four of the channels form a group and share the same common ground.	The specifications of the isolated input channels are:
