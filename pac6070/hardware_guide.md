@@ -276,4 +276,4 @@ The PAC-6070 includes an internal micro-SD card socket for data storage, accessi
 
 ![alt text](<19 SD card.jpg>)
 
-![alt text](<20 SD Card Jumper Settings.jpg>)
+![alt text](<20 SD Card Jumper Settings-1.jpg>)
