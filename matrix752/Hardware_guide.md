@@ -153,7 +153,6 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 
 ## 2.2	Dimension 
 (Unit: mm)
-<img src="./images/02 dimension.jpg" alt="pic2" width="400">
 
 ![pic 2](<./images/02 dimension.jpg>)
 
