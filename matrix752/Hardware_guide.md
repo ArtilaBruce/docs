@@ -341,8 +341,7 @@ There is a 4-pin wafer box header (JP2) inside the Matrix-752 features as serial
 
 There is a 2Pin wafer (1.2mm pitch) reserved that can be connected to external battery for RTC
 
-![alt text](<./images/20 External Battery Connection.jpg>)
-<img src="./images/20 External Battery Connection.jpg" alt="alt text" width="450">
+<img src="./images/20 External Battery Connection.jpg" alt="alt text" width="480">
 ---
 
 ## 3.12 SD Card Socket
