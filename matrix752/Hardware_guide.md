@@ -231,13 +231,13 @@ RS-485 is designed without isolation that automatically direction controlled via
 ### Enable/Disable RS-485 Termination Resistor (JP4):
 The Matrix-752 provides on-board 120Ohm termination resistor for each RS-485 port. To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short as below:
 
-<img src="./images/09 RS486 JP4-1.jpg" alt="alt text" width="550">
+<img src="./images/09 RS486 JP4-1.jpg" alt="alt text" width="450">
 
 ### Set Serial Port 1 to RS232 port (JP3 & JP6)
 The Serial Port on Matrix-752, default is RS-485 at JP3 (setting Pin 3 and Pin4)
 To Enable RS-232 port, setting JP3 at Pin 1 and Pin 2
 
-<img src="./images/10 RS485 & 232 jumper settings.jpg" alt="alt text" width="500">
+<img src="./images/10 RS485 & 232 jumper settings.jpg" alt="alt text" width="450">
 
 In the meantime, it should set D+/TX1 definition at JP6.
 Default setting is for RS-485 (D+) at JP6/Pin 2 and Pin 3.
