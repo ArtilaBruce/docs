@@ -240,14 +240,14 @@ The Serial Port on Matrix-752, default is RS-485 at JP3 (setting Pin 3 and Pin4)
 To Enable RS-232 port, setting JP3 at Pin 1 and Pin 2
 
 ![alt text](<./images/10 RS485 & 232 jumper settings.jpg>)
-<img src="./images/10 RS485 & 232 jumper.jpg" alt="alt text" width="400">
+<img src="./images/10 RS485 & 232 jumper settings.jpg" alt="alt text" width="400">
 
 In the meantime, it should set D+/TX1 definition at JP6.
 Default setting is for RS-485 (D+) at JP6/Pin 2 and Pin 3.
 To Enable RS232 / TX1, setting JP6 at Pin 1 and Pin 2
 
 ![alt text](<./images/11 RS485 & 232 TX1 jumper settings.jpg>)
-<img src="./images/11 RS485 & 232 TX1 jumper.jpg" alt="alt text" width="400">
+<img src="./images/11 RS485 & 232 TX1 jumper settings.jpg" alt="alt text" width="400">
 ---
 
 ## 3.7 CAN Bus Port
