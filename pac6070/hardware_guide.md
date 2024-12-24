@@ -251,6 +251,7 @@ The PAC-6070 includes a miniPCIe slot, accessible by following the direction of 
 The PAC-6070 supports wireless connectivity options. The device is compatible with both WiFi and LTE modules. Certified modules include:
 
 ![alt text](<./6070images/16 miniPCIe 1.jpg>)
+<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="300">
 
 - **SIM7600** (LTE)  
 - **RYWDB00** (WiFi + Bluetooth)
@@ -275,4 +276,4 @@ The PAC-6070 includes an internal micro-SD card socket for data storage, accessi
 ![alt text](<./6070images/19 SD card.jpg>)
 <img src="./6070images/19 SD card.jpg" alt="alt text" width="200">
 ![alt text](<./6070images/20 SD Card Jumper Settings-1.jpg>)
-<img src="./6070images/20 SD Card Jumper Settings-1.jpg" alt="alt text" width="280">
+<img src="./6070images/20 SD Card Jumper Settings-1.jpg" alt="alt text" width="300">
