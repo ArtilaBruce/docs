@@ -197,8 +197,6 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 #### Reference Circuit as follows:
 
 
-![alt text](<./6070images/13 Relay Output Circuit 123-1.jpg>)
-
 <img src="./6070images/13 Relay Output Circuit 123-1.jpg" alt="alt text" width="300">
 
 ### 11. Digital Input Connector
@@ -240,7 +238,6 @@ Each of the 5 channels of isolated analog input can be configured for various in
 - **Input Mode (Current):** 2 channels (single-end) Input Current: 0~20mA 
   
 
-![alt text](<./6070images/15 AI connector and Jumper settings.jpg>)
 <img src="./6070images/15 AI connector and Jumper settings.jpg" alt="alt text" width="500">
 
 ### 13. MiniPCIe Slot
@@ -274,5 +271,6 @@ The PAC-6070 includes an internal Nano-SIM card socket for use with an LTE/4G mo
 The PAC-6070 includes an internal micro-SD card socket for data storage, accessible by following the red arrow direction shown below.
 
 ![alt text](<./6070images/19 SD card.jpg>)
-
+<img src="./6070images/19 SD card.jpg" alt="alt text" width="400">
 ![alt text](<./6070images/20 SD Card Jumper Settings-1.jpg>)
+<img src="./6070images/20 SD CardJumper.jpg" alt="alt text" width="400">
