@@ -199,6 +199,8 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 
 ![alt text](<./6070images/13 Relay Output Circuit 123-1.jpg>)
 
+<img src="./6070images/13 Relay Output Circuit 123-1.jpg" alt="alt text" width="400">
+
 ### 11. Digital Input Connector
 The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	Four of the channels form a group and share the same common ground.	The specifications of the isolated input channels are:
 
@@ -239,6 +241,7 @@ Each of the 5 channels of isolated analog input can be configured for various in
   
 
 ![alt text](<./6070images/15 AI connector and Jumper settings.jpg>)
+<img src="./6070images/15 AI connector and Jumper settings.jpg" alt="alt text" width="400">
 
 ### 13. MiniPCIe Slot
 
