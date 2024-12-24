@@ -153,7 +153,7 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 ## 2.2	Dimension 
 (Unit: mm)
 
-<img src="./images/02 dimension.jpg" alt="alt text" width="400" height="400">
+<img src="./images/02 dimension.jpg" alt="alt text" width="400" height="450">
 # 3. Pin Assignment and Definitions
 
 ## 3.1 Multi-function Reset Button
@@ -176,7 +176,7 @@ The behavior of the reset button depends on how long you press the reset button.
 The LED indicators provide operational information for the Matrix-752:
 
 ![pic 4](<./images/04 LED Indicators.jpg>)
-
+<img src="./images/04 LED Indicators.jpg" alt="alt text" width="400">
 - **“Ready” LED**: Stays ON when the system is ready for operation.
 - **“SERIAL 1” & “SERIAL 2” LEDs**: Dual-color LEDs indicate data traffic:
   - **Green**: RXD line is high.
@@ -189,10 +189,10 @@ The LED indicators provide operational information for the Matrix-752:
 There are two 10/100Mbps Ethernet ports using RJ45 connectors with LED indicators. 
 
 ![alt text](<./images/4 LAN Port Indicators.jpg>)
-
+<img src="./images/4 LAN Port Indicators.jpg" alt="alt text" width="400">
 
 ![alt text](<./images/05 RJ45 Pin Assignment.jpg>)
-
+<img src="./images/05 RJ45 Pin Assignment.jpg" alt="alt text" width="400">
 
 ---
 
