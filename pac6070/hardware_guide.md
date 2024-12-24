@@ -90,9 +90,9 @@ PAC-6070 is powered by NXP i.MX6ULL Cortex-A7 Processor with 1GB SDRAM and 16GB 
 
 ## Layout: Diagram and M/B photo
 
-![alt text](<01 PAC 6070 正面layout diagram圖-1.jpg>)
+![alt text](<./6070images/01 PAC 6070 正面layout diagram圖-1.jpg>)
 
-![alt text](<02 PAC-6070 MB and dimension.jpg>)
+![alt text](./6070images/<02 PAC-6070 MB and dimension.jpg>)
 
 
 
