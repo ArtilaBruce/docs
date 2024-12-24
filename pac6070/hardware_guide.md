@@ -212,7 +212,7 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 - Isolation: 5000Vrms
 
 ![alt text](<./6070images/13 Digital Input Connector.jpg>)
-<img src="./6070images/13 Digital Input Connector.jpg" alt="alt text" width="400">	
+<img src="./6070images/13 Digital Input Connector.jpg" alt="alt text" width="500">	
 
 #### Pin Assignment of Digital Input:
 
@@ -227,7 +227,8 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 
 
 ![alt text](<./6070images/14 DI simple.jpg>)
-	
+<img src="./6070images/14 DI simple.jpg" alt="alt text" width="400">	
+
 - **DIx: Isolated digital input channels. COM: Common ground.**
 
 ### 12. Analog Input Connector
@@ -251,8 +252,7 @@ The PAC-6070 includes a miniPCIe slot, accessible by following the direction of 
 
 The PAC-6070 supports wireless connectivity options. The device is compatible with both WiFi and LTE modules. Certified modules include:
 
-![alt text](<./6070images/16 miniPCIe 1.jpg>)
-<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="420">
+<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="500">
 
 - **SIM7600** (LTE)  
 - **RYWDB00** (WiFi + Bluetooth)
@@ -268,13 +268,11 @@ For detailed specifications and compatibility information, please refer to the f
 
 The PAC-6070 includes an internal Nano-SIM card socket for use with an LTE/4G module. Insert the SIM card into the tray holder and follow the instructions provided.
 
-![alt text](<./6070images/18 Nano_SIM Card.jpg>)
-<img src="./6070images/18 Nano_SIM Card.jpg" alt="alt text" width="550">
+<img src="./6070images/18 Nano_SIM Card.jpg" alt="alt text" width="650">
 ---
 ### 15. SD Card Socket
 
 The PAC-6070 includes an internal micro-SD card socket for data storage, accessible by following the red arrow direction shown below.
-
 
 <img src="./6070images/19 SD card.jpg" alt="alt text" width="200">
 
