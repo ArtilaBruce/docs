@@ -243,14 +243,13 @@ In the meantime, it should set D+/TX1 definition at JP6.
 Default setting is for RS-485 (D+) at JP6/Pin 2 and Pin 3.
 To Enable RS232 / TX1, setting JP6 at Pin 1 and Pin 2
 
-<img src="./images/11 RS485 & 232 TX1 jumper settings.jpg" alt="alt text" width="500">
+<img src="./images/11 RS485 & 232 TX1 jumper settings.jpg" alt="alt text" width="400">
 ---
 
 ## 3.7 CAN Bus Port
 
 The Matrix-752 has one CAN Bus port:
 
-![alt text](<./images/12 Can Bus Port.jpg>)
 <img src="./images/12 Can Bus Port.jpg" alt="alt text" width="350">
 
 
@@ -272,7 +271,6 @@ The Matrix-752 provides on-board 120Ohm termination resistor for each CAN port.
 Default setting is “Disable” the terminal resistor for CAN bus.
 To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short position1 and position 2, shown below:
 
-![alt text](<./images/13 CAN Bus JP5.jpg>)
 <img src="./images/13 CAN Bus JP5.jpg" alt="alt text" width="450">
 ---
 
@@ -280,7 +278,6 @@ To enable the termination resistor, please remove the upper cover of the Matrix-
 
 Two digital input channels with 5000Vrms photocoupler isolation.
 
-![alt text](<./images/14 Digital Input.jpg>)
 <img src="./images/14 Digital Input.jpg" alt="alt text" width="350">
 
 ### Pin Assignment of Digital Input:
@@ -314,7 +311,6 @@ Two digital output channels using solid-state relays.
 -  Normal Open (NO)**:Normal Open (NO) Type
 -  Contact Rating:-  80VDC @ 1.5A  
 
-![alt text](<./images/16 DO digital output.jpg>)
 <img src="./images/16 DO digital output.jpg" alt="alt text" width="300">
 
 ### Pin Assignment of Digital Input:
