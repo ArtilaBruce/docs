@@ -179,7 +179,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 -  Max. Switching Current: 2A
 
 ![alt text](<./6070images/12 Relay Output Layout.jpg>)
-<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="500">
+<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="550">
 
 #### Pin Assignment of Digital Output :
 
@@ -208,7 +208,6 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 - Response time: 20µs
 - Isolation: 5000Vrms
 
-![alt text](<./6070images/13 Digital Input Connector.jpg>)
 <img src="./6070images/13 Digital Input Connector.jpg" alt="alt text" width="600">	
 
 #### Pin Assignment of Digital Input:
