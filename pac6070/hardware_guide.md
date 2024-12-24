@@ -274,7 +274,7 @@ The PAC-6070 includes an internal Nano-SIM card socket for use with an LTE/4G mo
 
 The PAC-6070 includes an internal micro-SD card socket for data storage, accessible by following the red arrow direction shown below.
 
-![alt text](<./6070images/19 SD card.jpg>)
+
 <img src="./6070images/19 SD card.jpg" alt="alt text" width="200">
-![alt text](<./6070images/20 SD Card Jumper Settings-1.jpg>)
+
 <img src="./6070images/20 SD Card Jumper Settings-1.jpg" alt="alt text" width="350">
