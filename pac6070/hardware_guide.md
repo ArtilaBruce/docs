@@ -182,6 +182,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 -  Max. Switching Current: 2A
 
 ![alt text](<./6070images/12 Relay Output Layout.jpg>)
+<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="400">
 
 #### Pin Assignment of Digital Output :
 
@@ -240,7 +241,7 @@ Each of the 5 channels of isolated analog input can be configured for various in
 - **Input Mode (Current):** 2 channels (single-end) Input Current: 0~20mA 
   
 
-<img src="./6070images/15 AI connector and Jumper settings.jpg" alt="alt text" width="500">
+<img src="./6070images/15 AI connector and Jumper settings.jpg" alt="alt text" width="450">
 
 ### 13. MiniPCIe Slot
 
@@ -251,7 +252,7 @@ The PAC-6070 includes a miniPCIe slot, accessible by following the direction of 
 The PAC-6070 supports wireless connectivity options. The device is compatible with both WiFi and LTE modules. Certified modules include:
 
 ![alt text](<./6070images/16 miniPCIe 1.jpg>)
-<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="300">
+<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="400">
 
 - **SIM7600** (LTE)  
 - **RYWDB00** (WiFi + Bluetooth)
@@ -268,7 +269,7 @@ For detailed specifications and compatibility information, please refer to the f
 The PAC-6070 includes an internal Nano-SIM card socket for use with an LTE/4G module. Insert the SIM card into the tray holder and follow the instructions provided.
 
 ![alt text](<./6070images/18 Nano_SIM Card.jpg>)
-<img src="./6070images/18 Nano_SIM Card.jpg" alt="alt text" width="400">
+<img src="./6070images/18 Nano_SIM Card.jpg" alt="alt text" width="500">
 ---
 ### 15. SD Card Socket
 
