@@ -147,13 +147,13 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 
 # 2.	Layout        　　　　　　　        
 ## 2.1	Connector & LED Indicator
-<img src="./images/01 Indicators.jpg" alt="alt text" width="400">
+<img src="./images/01 Indicators.jpg" alt="alt text" width="450">
 
 
 ## 2.2	Dimension 
 (Unit: mm)
 
-<img src="./images/02 dimension.jpg" alt="alt text" width="400" height="300">
+<img src="./images/02 dimension.jpg" alt="alt text" width="400" height="400">
 # 3. Pin Assignment and Definitions
 
 ## 3.1 Multi-function Reset Button
