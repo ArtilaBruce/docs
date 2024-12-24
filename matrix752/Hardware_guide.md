@@ -147,7 +147,7 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 
 # 2.	Layout        　　　　　　　        
 ## 2.1	Connector & LED Indicator
-<img src="./images/01 Indicators.jpg" alt="alt text" width="450">
+<img src="./images/01 Indicators.jpg" alt="alt text" width="500">
 
 
 ## 2.2	Dimension 
@@ -175,8 +175,8 @@ The behavior of the reset button depends on how long you press the reset button.
 
 The LED indicators provide operational information for the Matrix-752:
 
-![pic 4](<./images/04 LED Indicators.jpg>)
 <img src="./images/04 LED Indicators.jpg" alt="alt text" width="400">
+
 - **“Ready” LED**: Stays ON when the system is ready for operation.
 - **“SERIAL 1” & “SERIAL 2” LEDs**: Dual-color LEDs indicate data traffic:
   - **Green**: RXD line is high.
@@ -188,10 +188,8 @@ The LED indicators provide operational information for the Matrix-752:
 
 There are two 10/100Mbps Ethernet ports using RJ45 connectors with LED indicators. 
 
-![alt text](<./images/4 LAN Port Indicators.jpg>)
 <img src="./images/4 LAN Port Indicators.jpg" alt="alt text" width="400">
 
-![alt text](<./images/05 RJ45 Pin Assignment.jpg>)
 <img src="./images/05 RJ45 Pin Assignment.jpg" alt="alt text" width="400">
 
 ---
@@ -202,6 +200,7 @@ The Matrix-752 supports a +9 to +48VDC power line connected via a terminal block
 
 ![alt text](<./images/06 power input-1.jpg>)
 
+<img src="./images/06 power input-1.jpg" alt="alt text" width="400">
 ---
 
 ## 3.5 USB OTG Port
@@ -209,6 +208,8 @@ The Matrix-752 supports a +9 to +48VDC power line connected via a terminal block
 The Matrix-752 is equipped with one USB OTG port using a micro-USB connector.
 
 ![alt text](<./images/07 USB OTG.jpg>)
+
+<img src="./images/07 USB OTG.jpg" alt="alt text" width="400">
 ---
 
 ## 3.6 Serial Port
