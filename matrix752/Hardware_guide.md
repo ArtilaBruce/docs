@@ -226,12 +226,12 @@ RS-485 is designed without isolation that automatically direction controlled via
 | **Serial Port 1** RS-232 (1)  |TX1 | RX1 | --        | --        | GND       |
 | **Serial Port 2** RS-232 (2)| --        | --        | TX2 | RX2 | GND      |
 
-<img src="./images/08 Serial Port.jpg" alt="alt text" width="400">
+<img src="./images/08 Serial Port.jpg" alt="alt text" width="450">
 
 ### Enable/Disable RS-485 Termination Resistor (JP4):
 The Matrix-752 provides on-board 120Ohm termination resistor for each RS-485 port. To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short as below:
 
-<img src="./images/09 RS486 JP4-1.jpg" alt="alt text" width="500">
+<img src="./images/09 RS486 JP4-1.jpg" alt="alt text" width="550">
 
 ### Set Serial Port 1 to RS232 port (JP3 & JP6)
 The Serial Port on Matrix-752, default is RS-485 at JP3 (setting Pin 3 and Pin4)
@@ -251,7 +251,7 @@ To Enable RS232 / TX1, setting JP6 at Pin 1 and Pin 2
 The Matrix-752 has one CAN Bus port:
 
 ![alt text](<./images/12 Can Bus Port.jpg>)
-<img src="./images/12 Can Bus Port.jpg" alt="alt text" width="400">
+<img src="./images/12 Can Bus Port.jpg" alt="alt text" width="350">
 
 
 Users can open the CAN bus port as network sockets, the socket names are 'can0'
@@ -281,7 +281,7 @@ To enable the termination resistor, please remove the upper cover of the Matrix-
 Two digital input channels with 5000Vrms photocoupler isolation.
 
 ![alt text](<./images/14 Digital Input.jpg>)
-<img src="./images/14 Digital Input.jpg" alt="alt text" width="400">
+<img src="./images/14 Digital Input.jpg" alt="alt text" width="350">
 
 ### Pin Assignment of Digital Input:
 
