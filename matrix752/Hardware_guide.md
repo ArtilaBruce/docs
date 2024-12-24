@@ -273,7 +273,7 @@ Default setting is “Disable” the terminal resistor for CAN bus.
 To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short position1 and position 2, shown below:
 
 ![alt text](<./images/13 CAN Bus JP5.jpg>)
-<img src="./images/13 CAN Bus JP5.jpg" alt="alt text" width="350">
+<img src="./images/13 CAN Bus JP5.jpg" alt="alt text" width="450">
 ---
 
 ## 3.8 Digital Input
@@ -315,7 +315,7 @@ Two digital output channels using solid-state relays.
 -  Contact Rating:-  80VDC @ 1.5A  
 
 ![alt text](<./images/16 DO digital output.jpg>)
-<img src="./images/16 DO digital output.jpg" alt="alt text" width="400">
+<img src="./images/16 DO digital output.jpg" alt="alt text" width="300">
 
 ### Pin Assignment of Digital Input:
 
@@ -329,17 +329,15 @@ Two digital output channels using solid-state relays.
 Reference Circuit of following:
 
 ![alt text](<./images/17 DO reference circuit-1.jpg>)
-<img src="./images/17 DO reference circuit.jpg" alt="alt text" width="400">
+
 ---
 
 ## 3.10 Serial Console Port
 
 There is a 4-pin wafer box header (JP2) inside the Matrix-752 features as serial console port that used for locally accessing Matrix-752 system via console port.
 
-![alt text](<./images/18 Consol Port.jpg>)
 <img src="./images/18 Consol Port.jpg" alt="alt text" width="400">
 
-![alt text](<./images/19 Console Pin Assignment.jpg>)
 <img src="./images/19 Console Pin Assignment.jpg" alt="alt text" width="400">
 
 ---
@@ -349,7 +347,7 @@ There is a 4-pin wafer box header (JP2) inside the Matrix-752 features as serial
 There is a 2Pin wafer (1.2mm pitch) reserved that can be connected to external battery for RTC
 
 ![alt text](<./images/20 External Battery Connection.jpg>)
-<img src="./images/20 External Battery Connection.jpg" alt="alt text" width="400">
+<img src="./images/20 External Battery Connection.jpg" alt="alt text" width="450">
 ---
 
 ## 3.12 SD Card Socket
