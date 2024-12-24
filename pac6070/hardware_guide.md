@@ -128,13 +128,10 @@ When Ethernet ports are connected to the network, Link/Act will show solid green
 ### 5. Serial Port LED
 One dual color LEDs indicate the data traffic at the serial ports. Dual color LEDs indicate the data traffic at the serial ports. When the RXD line is high then green light is ON and when the TXD line is high, yellow light is ON.
 
-![alt text](<./6070images/07 Serial Port LED.jpg>)
 <img src="./6070images/07 Serial Port LED.jpg" alt="alt text" width="320">
 
 ### 6. Ethernet Port (LAN1 / LAN2)
 
-
-![alt text](<./6070images/081Ethernet Port.jpg>)
 <img src="./6070images/081Ethernet Port.jpg" alt="alt text" width="350">
 ---
 
@@ -182,7 +179,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 -  Max. Switching Current: 2A
 
 ![alt text](<./6070images/12 Relay Output Layout.jpg>)
-<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="400">
+<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="500">
 
 #### Pin Assignment of Digital Output :
 
@@ -212,7 +209,7 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 - Isolation: 5000Vrms
 
 ![alt text](<./6070images/13 Digital Input Connector.jpg>)
-<img src="./6070images/13 Digital Input Connector.jpg" alt="alt text" width="500">	
+<img src="./6070images/13 Digital Input Connector.jpg" alt="alt text" width="600">	
 
 #### Pin Assignment of Digital Input:
 
@@ -226,8 +223,7 @@ The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	
 | **Signal**| DI5      | DI6      | DI7      | DI8      | ICOM2     |
 
 
-![alt text](<./6070images/14 DI simple.jpg>)
-<img src="./6070images/14 DI simple.jpg" alt="alt text" width="400">	
+<img src="./6070images/14 DI simple.jpg" alt="alt text" width="300">	
 
 - **DIx: Isolated digital input channels. COM: Common ground.**
 
@@ -252,7 +248,7 @@ The PAC-6070 includes a miniPCIe slot, accessible by following the direction of 
 
 The PAC-6070 supports wireless connectivity options. The device is compatible with both WiFi and LTE modules. Certified modules include:
 
-<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="500">
+<img src="./6070images/16 miniPCIe 1.jpg" alt="alt text" width="450">
 
 - **SIM7600** (LTE)  
 - **RYWDB00** (WiFi + Bluetooth)
