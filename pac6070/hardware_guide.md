@@ -129,11 +129,13 @@ When Ethernet ports are connected to the network, Link/Act will show solid green
 One dual color LEDs indicate the data traffic at the serial ports. Dual color LEDs indicate the data traffic at the serial ports. When the RXD line is high then green light is ON and when the TXD line is high, yellow light is ON.
 
 ![alt text](<./6070images/07 Serial Port LED.jpg>)
+<img src="./6070images/07 Serial Port LED.jpg" alt="alt text" width="300">
 
 ### 6. Ethernet Port (LAN1 / LAN2)
 
 
 ![alt text](<./6070images/081Ethernet Port.jpg>)
+<img src="./6070images/081Ethernet Port.jpg" alt="alt text" width="300">
 ---
 
 ### 7 Serial Port
@@ -197,7 +199,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 #### Reference Circuit as follows:
 
 
-<img src="./6070images/13 Relay Output Circuit 123-1.jpg" alt="alt text" width="300">
+<img src="./6070images/13 Relay Output Circuit 123-1.jpg" alt="alt text" width="250">
 
 ### 11. Digital Input Connector
 The 8 channel isolated input are equipped with 5000Vrms photo coupler isolator.	Four of the channels form a group and share the same common ground.	The specifications of the isolated input channels are:
@@ -271,6 +273,6 @@ The PAC-6070 includes an internal Nano-SIM card socket for use with an LTE/4G mo
 The PAC-6070 includes an internal micro-SD card socket for data storage, accessible by following the red arrow direction shown below.
 
 ![alt text](<./6070images/19 SD card.jpg>)
-<img src="./6070images/19 SD card.jpg" alt="alt text" width="400">
+<img src="./6070images/19 SD card.jpg" alt="alt text" width="200">
 ![alt text](<./6070images/20 SD Card Jumper Settings-1.jpg>)
-<img src="./6070images/20 SD CardJumper.jpg" alt="alt text" width="400">
+<img src="./6070images/20 SD Card Jumper Settings-1.jpg" alt="alt text" width="280">
