@@ -188,7 +188,7 @@ The LED indicators provide operational information for the Matrix-752:
 
 There are two 10/100Mbps Ethernet ports using RJ45 connectors with LED indicators. 
 
-<img src="./images/4 LAN Port Indicators.jpg" alt="alt text" width="400">
+<img src="./images/4 LAN Port Indicators.jpg" alt="alt text" width="300">
 
 <img src="./images/05 RJ45 Pin Assignment.jpg" alt="alt text" width="400">
 
@@ -198,16 +198,14 @@ There are two 10/100Mbps Ethernet ports using RJ45 connectors with LED indicator
 
 The Matrix-752 supports a +9 to +48VDC power line connected via a terminal block.
 
-![alt text](<./images/06 power input-1.jpg>)
 
-<img src="./images/06 power input-1.jpg" alt="alt text" width="400">
+<img src="./images/06 power input-1.jpg" alt="alt text" width="300">
 ---
 
 ## 3.5 USB OTG Port
 
 The Matrix-752 is equipped with one USB OTG port using a micro-USB connector.
 
-![alt text](<./images/07 USB OTG.jpg>)
 
 <img src="./images/07 USB OTG.jpg" alt="alt text" width="400">
 ---
@@ -229,24 +227,27 @@ RS-485 is designed without isolation that automatically direction controlled via
 | **Serial Port 2** RS-232 (2)| --        | --        | TX2 | RX2 | GND      |
 
 ![alt text](<./images/08 Serial Port.jpg>)
+<img src="./images/08 Serial Port.jpg" alt="alt text" width="400">
 
 ### Enable/Disable RS-485 Termination Resistor (JP4):
 The Matrix-752 provides on-board 120Ohm termination resistor for each RS-485 port. To enable the termination resistor, please remove the upper cover of the Matrix-752, and the adjust the associated jumper to short as below:
 
 ![alt text](<./images/09 RS486 JP4-1.jpg>)
-
+<img src="./images/09 RS486 JP4-1.jpg" alt="alt text" width="400">
 
 ### Set Serial Port 1 to RS232 port (JP3 & JP6)
 The Serial Port on Matrix-752, default is RS-485 at JP3 (setting Pin 3 and Pin4)
 To Enable RS-232 port, setting JP3 at Pin 1 and Pin 2
 
 ![alt text](<./images/10 RS485 & 232 jumper settings.jpg>)
+<img src="./images/10 RS485 & 232 jumper.jpg" alt="alt text" width="400">
 
 In the meantime, it should set D+/TX1 definition at JP6.
 Default setting is for RS-485 (D+) at JP6/Pin 2 and Pin 3.
 To Enable RS232 / TX1, setting JP6 at Pin 1 and Pin 2
 
 ![alt text](<./images/11 RS485 & 232 TX1 jumper settings.jpg>)
+<img src="./images/11 RS485 & 232 TX1 jumper.jpg" alt="alt text" width="400">
 ---
 
 ## 3.7 CAN Bus Port
