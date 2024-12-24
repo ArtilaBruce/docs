@@ -153,7 +153,6 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 ## 2.2	Dimension 
 (Unit: mm)
 
-![pic 2](<./images/02 dimension.jpg>)
 <img src="./images/02 dimension.jpg" alt="alt text" width="400" height="300">
 # 3. Pin Assignment and Definitions
 
@@ -161,8 +160,8 @@ Matrix-752, based on the ARM Cortex-A7 architecture, is a Linux-ready IoT gatewa
 
 The Matrix-752 provides a multi-function reset button located on the side of the chassis as shown below:
 
-![pic 3](<./images/03 reset button.jpg>)
 <img src="./images/03 reset button.jpg" alt="alt text" width="400">
+
 The behavior of the reset button depends on how long you press the reset button.
 | **Press and Hold**              | **Behavior**                              | **Network Settings After Reboot**         |
 |---------------------------------|-------------------------------------------|-------------------------------------------|
