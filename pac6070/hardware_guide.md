@@ -196,6 +196,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 
 #### Reference Circuit as follows:
 
+
 ![alt text](<./6070images/13 Relay Output Circuit 123-1.jpg>)
 
 ### 11. Digital Input Connector
