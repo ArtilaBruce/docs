@@ -339,7 +339,7 @@ There is a 4-pin wafer box header (JP2) inside the Matrix-752 features as serial
 <img src="./images/18 Consol Port.jpg" alt="alt text" width="400">
 
 ![alt text](<./images/19 Console Pin Assignment.jpg>)
-<img src="./images/19 Console Pin.jpg" alt="alt text" width="400">
+<img src="./images/19 Console Pin Assignment.jpg" alt="alt text" width="400">
 
 ---
 
@@ -355,8 +355,7 @@ There is a 2Pin wafer (1.2mm pitch) reserved that can be connected to external b
 
 The micro-SD card socket inside the Matrix-752 can be accessed after removing the top cover. It supports additional data storage.
 
-![alt text](<./images/21 SD CArd Socket.jpg>)
-<img src="./images/21 SD CArd Socket.jpg" alt="alt text" width="400">
+<img src="./images/21 SD CArd Socket.jpg" alt="alt text" width="500">
 ---
 
 ## 3.13 miniPCIe Slot
