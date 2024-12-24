@@ -178,8 +178,7 @@ PAC-6070 uses +9VDC to 48VDC power and input from CN1 connector.
 -  Max. Switching Voltage: 125VAC / 60VDC
 -  Max. Switching Current: 2A
 
-![alt text](<./6070images/12 Relay Output Layout.jpg>)
-<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="550">
+<img src="./6070images/12 Relay Output Layout.jpg" alt="alt text" width="570">
 
 #### Pin Assignment of Digital Output :
 
